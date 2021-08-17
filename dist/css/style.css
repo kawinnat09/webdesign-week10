@@ -1,5 +1,5 @@
-
-.container-md {
+/*
+.container-lg {
     border: 5px solid blue;
 }
 
@@ -9,4 +9,8 @@
 
 .col {
     border: 3px solid red;
+}
+
+.col-3 {
+    border: 3px solid aqua;
 }
